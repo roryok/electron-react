@@ -37,7 +37,7 @@ bower install
 npm install
 ```
 
-### Bulding project
+### Building project
 
 Development
 
